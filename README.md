@@ -1,5 +1,5 @@
 # marco-rubio-bible-tweets
-How many times does Senator Marco Rubio tweet bible verses? (Shockingly, up to 30% of his tweets are like this.)
+How many times does Senator Marco Rubio tweet verses from the Bible? I was able to find out with Twitter scraping.
 
 Run `main.py` and then the `graph` notebook. 
 ## Dependencies
